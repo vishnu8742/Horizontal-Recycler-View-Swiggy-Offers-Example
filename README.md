@@ -10,7 +10,10 @@ Total Java class Files(2) : 1.Main_activity.java
 [Download APK](https://github.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/raw/master/Swiggy-com.example.anon.swiggy-1-v1.0.apk "Swiggy offers apk")
 
 
-##ScreenShot:
+Screen Shots
+------------
+
+
 ![alt text](https://raw.githubusercontent.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/master/1.png)
 ![alt text](https://raw.githubusercontent.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/master/2.png)
 
