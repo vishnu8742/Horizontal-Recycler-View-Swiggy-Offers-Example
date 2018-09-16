@@ -14,6 +14,5 @@ Screen Shots
 ------------
 
 
-![alt text](https://raw.githubusercontent.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/master/1.png)
-![alt text](https://raw.githubusercontent.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/master/2.png)
+![alt text](https://raw.githubusercontent.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/master/screen-shot.gif)
 
