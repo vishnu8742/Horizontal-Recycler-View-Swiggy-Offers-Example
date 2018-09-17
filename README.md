@@ -8,6 +8,7 @@ Total Layout Files (2) :
                          
 Total Java class Files(2) : 
 
+
 1.Main_activity.java
 2.RecyclerViewAdapter.java
                             
