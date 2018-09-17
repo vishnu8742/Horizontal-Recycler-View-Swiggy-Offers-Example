@@ -8,9 +8,8 @@ Total Layout Files (2) :
                          
 Total Java class Files(2) : 
 
-
-1.Main_activity.java
-2.RecyclerViewAdapter.java
+1. Main_activity.java
+2. RecyclerViewAdapter.java
                             
 [Download APK](https://github.com/vishnu8742/Horizontal-Recycler-View-Swiggy-Offers-Example/raw/master/Swiggy-com.example.anon.swiggy-1-v1.0.apk "Swiggy offers apk")
 
